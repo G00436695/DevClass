@@ -1,6 +1,15 @@
 /* this function is for multi line comments. code wont be read*/
 // is for a single line. code wont be read
+/* println bring it onto the line before, print remains on the same line
 
+print
+--
+(word)   would resume here
+--
+println
+
+(word)
+         would resume here*/
 
 
 public class First {
