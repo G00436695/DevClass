@@ -1,17 +1,10 @@
 /* this function is for multi line comments. code wont be read*/
-
+// is for a single line 
 
 
 
 public class First {
     public static void main(String[] args) {
-        // single line comment
-        
-        /* 
-        Multi line comment  
-        Line 1
-        Line 2
-         */
         
         System.out.println("First Java Program"); // println() - print and move to next line
         System.out.println("Software Development 1");
