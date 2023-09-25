@@ -1,5 +1,5 @@
 /* this function is for multi line comments. code wont be read*/
-// is for a single line 
+// is for a single line. code wont be read
 
 
 
